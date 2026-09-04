@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lassie.solution@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20work-2ea44f?style=flat-square" alt="Open to freelance work">
+  <img src="https://img.shields.io/badge/Contact-via%20GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="Contact via GitHub">
 </p>
 
 ---
@@ -72,5 +72,5 @@ Hand over the keys. Every project ships with a written guide and a recorded walk
 ---
 
 <p align="center">
-  <sub>Available for freelance projects. If something in production is broken and nobody knows why, that's the kind of message I answer fastest.</sub>
+  <sub>Available for freelance projects. Reach me through the contact details on my GitHub profile.<br>If something in production is broken and nobody knows why, that is the kind of message I answer fastest.</sub>
 </p>
