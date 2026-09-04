@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.workana.com/freelancer/YOUR-HANDLE"><img src="https://img.shields.io/badge/Workana-2E6BE6?style=flat-square&logo=briefcase&logoColor=white" alt="Workana"></a>
+  <a href="mailto:lassie.solution@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20work-2ea44f?style=flat-square" alt="Open to freelance work">
 </p>
 
