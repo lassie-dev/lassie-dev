@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Nocturne 👋</h1>
 
 <p align="center">
-  <em>Old enough to have deployed over FTP,<br>
-  young enough to still find it beautiful when something finally works.</em>
+  <em>I've been doing this a long time, and I still like it.</em>
 </p>
 
 <p align="center">
