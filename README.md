@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://t.me/t0ny831"><img src="https://img.shields.io/badge/Telegram-%40t0ny831-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @t0ny831"></a>
   <a href="https://wa.me/12246832338"><img src="https://img.shields.io/badge/WhatsApp-%2B1%20224%20683%202338-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp +1 224 683 2338"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20work-2ea44f?style=flat-square" alt="Open to freelance work">
 </p>
 
 ---
