@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nocturne 👋</h1>
+<h1 align="center">Hi, I'm Lassie 👋</h1>
 
 <p align="center">
   <em>I've been doing this a long time, and I still like it.</em>
