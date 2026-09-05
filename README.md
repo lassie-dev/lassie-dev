@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Kai 👋</h1>
+<h1 align="center">Hi, I'm Nocturne 👋</h1>
+
+<p align="center">
+  <em>Old enough to have deployed over FTP,<br>
+  young enough to still find it beautiful when something finally works.</em>
+</p>
 
 <p align="center">
   Full-stack developer with a soft spot for broken things.<br>
@@ -16,7 +21,7 @@
 
 ### What I actually do
 
-I've made peace with being good at four things instead of passable at forty.
+I've made peace with doing a few things properly instead of everything adequately.
 
 **Stores that sell.** Shopify, WooCommerce and PrestaShop. A catalog structured like someone will still have to live in it two years from now, a checkout tested with a real transaction and real money before anyone celebrates, and a handover that lets the client change a price on a Sunday evening without texting me about it.
 
