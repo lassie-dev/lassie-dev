@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Full-stack developer with a soft spot for broken things.<br>
-  E-commerce, tracking &amp; analytics, Android, and the quiet production systems<br>
-  that have to keep breathing while everyone else is asleep.
+  Full-stack developer. I fix broken systems and build new ones.<br>
+  Online stores, tracking and analytics, Android apps,<br>
+  and servers that have to keep running.
 </p>
 
 <p align="center">
@@ -18,17 +18,17 @@
 
 ---
 
-### What I actually do
+### What I do
 
-I've made peace with doing a few things properly instead of everything adequately.
+I do four things well. I don't try to do everything.
 
-**Stores that sell.** Shopify, WooCommerce and PrestaShop. A catalog structured like someone will still have to live in it two years from now, a checkout tested with a real transaction and real money before anyone celebrates, and a handover that lets the client change a price on a Sunday evening without texting me about it.
+**Online stores.** Shopify, WooCommerce and PrestaShop. I set up the product catalog so it stays easy to manage later. I test the checkout with a real payment before launch. After handover you can change prices and products yourself, without calling a developer.
 
-**Measurement that reconciles.** GA4, Google Tag Manager, Google Ads, Meta CAPI. There's a particular kind of quiet dread in watching your store's revenue disagree with Analytics, and it almost always traces back to the data layer, a missing transaction ID, or a payment gateway quietly severing the session on its way back. I go looking, I prove it, then I fix it.
+**Tracking that matches your sales.** GA4, Google Tag Manager, Google Ads and Meta CAPI. When your store's revenue doesn't match what Analytics reports, the cause is usually one of three things: the data layer, a missing transaction ID, or a payment gateway that breaks the session. I find the cause, show you the proof, then fix it.
 
-**Android that survives the background.** Kotlin, foreground services, AccessibilityService, on-device audio and speech. Battery is not a footnote — it's the whole argument for whether a feature deserves to exist. I test on the manufacturers that kill background work without saying a word, because those are the phones your users actually own.
+**Android apps that keep running in the background.** Kotlin, foreground services, AccessibilityService, audio and speech processing on the device. I measure battery use while I build, not afterwards. I test on phones from the brands that shut down background apps without warning, because those are the phones your users have.
 
-**Systems that stay up.** C#/.NET workers on a Linux VPS, systemd, Docker, log rotation, watchdogs, and monitoring that asks whether the data is still fresh rather than whether the process is still technically alive. A service that hangs while reporting healthy is a far lonelier problem than one that has the decency to crash.
+**Servers that stay up.** C#/.NET workers on a Linux VPS, systemd, Docker, log rotation and watchdogs. My monitoring checks whether the data is still arriving, not only whether the program is running. A program can be running and stuck at the same time. Most alerts miss this.
 
 ---
 
@@ -48,31 +48,31 @@ I've made peace with doing a few things properly instead of everything adequatel
 
 ### How I work
 
-**Sit with it before you touch it.** On a broken production system the first instinct is to restart something, and that instinct is almost always wrong. Restarting burns the only evidence of what happened, and the outage comes back a week later wearing the same face.
+**I find the cause before I change anything.** When a server breaks, most people restart it first. Restarting deletes the information that explains the problem, and the same problem comes back a week later.
 
-**Prove it, then fix it.** Nothing ships until the root cause is demonstrated and written down in language a non-engineer could repeat back to me. A fix I can't explain is just a coincidence I got lucky with.
+**I show the proof, then fix it.** I don't make a change until I can explain the cause in plain words that you can check yourself.
 
-**Break it on purpose, gently.** If I tell you it runs 24/7, it's because I've already killed the process, rebooted the box and cut the upstream just to watch it find its way home.
+**I break things on purpose to test them.** If I tell you something runs 24/7, it means I have already killed the program, restarted the server and cut the connection, to make sure it recovers on its own.
 
-**Leave the lights on for whoever comes next.** Every project ends with a written guide and a recorded walkthrough. The nicest thing you can say about a handover is that nobody needed to call me.
-
----
-
-### Vibe coding, honestly
-
-I build with AI in the loop every day — Claude Code, Copilot, an LLM open in the next window — and I've stopped pretending otherwise. It's the best thing to happen to the boring eighty percent of this job. A migration script, a first pass at a component, the tests I'd have written grudgingly at 11pm: generated in a minute, and I get to spend that hour on the part that actually needed a person.
-
-What I don't do is ship anything I couldn't have written myself. Every generated line gets read, run, and argued with before it goes near a branch — because the thing will produce a plausible, confident, subtly wrong answer with exactly the same tone as a correct one, and the only defence is knowing the domain well enough to notice. Vibes get the draft. Judgement ships it.
-
-So if you want a feature prototyped by Friday, I can probably do that now. And if you've inherited a codebase that was vibe-coded to the finish line and nobody can explain how it works any more — that's a rescue job I know intimately, and I don't judge. We've all been there at 2am, telling ourselves we'd clean it up later.
+**I write everything down for you.** Every project ends with a written guide and a screen recording. You should be able to handle normal changes without me.
 
 ---
 
-### Recent focus
+### Working with AI
 
-- **On-device speech for Android.** VAD gating in front of a streaming ASR, with a heavier model held in reserve to confirm the candidates. Fewer false positives and a longer battery life, out of the same idea — the elegant version is usually the cheap one too.
-- **E-commerce measurement audits.** Reconciling store revenue against GA4, Google Ads and Meta, down to matching individual orders across all four. Tedious, and quietly one of my favourite things to do.
-- **Customer service automation for retail.** WhatsApp and Instagram flows that hand off to a human after two failed attempts, never invent stock or sizing, and file every unanswered question as a content backlog. Knowing when to step aside is a feature.
+I use AI tools every day: Claude Code, GitHub Copilot and ChatGPT. They are good at the repetitive parts of the work, like a database migration script, a first version of a page, or tests. That saves hours on every project.
+
+But I read and test every line before it goes into your project. AI gives wrong answers in the same confident tone as correct ones, so the only real protection is knowing the subject well enough to catch the mistakes. AI writes the first draft. I decide what ships.
+
+This means two things for you. I can build a working prototype faster than before. And if you already have a project that was built mostly with AI, and nobody can explain how it works now, I can take it over and clean it up.
+
+---
+
+### Recent work
+
+- **Speech recognition on Android phones.** A small, cheap voice detector runs first, and the large model only starts when it hears something. This uses less battery and produces fewer wrong results.
+- **Tracking audits for online stores.** I compare the store's real sales against GA4, Google Ads and Meta, order by order, until all four numbers match.
+- **Customer service automation for shops.** WhatsApp and Instagram chatbots that pass the conversation to a person after two failed answers. They never guess stock levels or sizes. Every question they cannot answer is saved in a list for the shop to review.
 
 ---
 
@@ -89,5 +89,5 @@ So if you want a feature prototyped by Friday, I can probably do that now. And i
 ---
 
 <p align="center">
-  <sub>Available for freelance projects — Telegram <a href="https://t.me/t0ny831">@t0ny831</a> or WhatsApp <a href="https://wa.me/12246832338">+1 224 683 2338</a>.<br>If something in production is broken and nobody can say why, that's the message I answer fastest — <br>there's nothing quite like the moment the logs finally start making sense.</sub>
+  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/t0ny831">@t0ny831</a> or WhatsApp <a href="https://wa.me/12246832338">+1 224 683 2338</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
 </p>
