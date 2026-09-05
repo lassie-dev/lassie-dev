@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/t0ny831"><img src="https://img.shields.io/badge/Telegram-%40t0ny831-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @t0ny831"></a>
+  <a href="https://t.me/lassie_dev"><img src="https://img.shields.io/badge/Telegram-%40lassie__dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @lassie_dev"></a>
   <a href="https://wa.me/12246832338"><img src="https://img.shields.io/badge/WhatsApp-%2B1%20224%20683%202338-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp +1 224 683 2338"></a>
 </p>
 
@@ -87,5 +87,5 @@ This means two things for you. I can build a working prototype faster than befor
 ---
 
 <p align="center">
-  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/t0ny831">@t0ny831</a> or WhatsApp <a href="https://wa.me/12246832338">+1 224 683 2338</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
+  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/lassie_dev">@lassie_dev</a> or WhatsApp <a href="https://wa.me/12246832338">+1 224 683 2338</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
 </p>
