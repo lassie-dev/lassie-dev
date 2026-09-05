@@ -77,11 +77,10 @@ This means two things for you. I can build a working prototype faster than befor
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lassie-dev&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lassie-dev&theme=github_dark" alt="GitHub stats" height="200">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lassie-dev&theme=github_dark" alt="Top languages by repository" height="200">
 
-![Streak](https://streak-stats.demolab.com?user=lassie-dev&hide_border=true&theme=github-dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lassie-dev&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
+<img src="https://streak-stats.demolab.com?user=lassie-dev&hide_border=true&theme=github-dark" alt="Contribution streak">
 
 </div>
 
