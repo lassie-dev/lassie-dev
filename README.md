@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://t.me/lassie_dev"><img src="https://img.shields.io/badge/Telegram-%40lassie__dev-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @lassie_dev"></a>
-  <a href="https://wa.me/12246832338"><img src="https://img.shields.io/badge/WhatsApp-%2B1%20224%20683%202338-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp +1 224 683 2338"></a>
+  <a href="https://wa.me/15056590178"><img src="https://img.shields.io/badge/WhatsApp-%2B1%20505%20659%200178-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp +1 505 659 0178"></a>
+  <a href="mailto:lassie.solution@gmail.com"><img src="https://img.shields.io/badge/Email-lassie.solution%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email lassie.solution@gmail.com"></a>
 </p>
 
 ---
@@ -87,5 +88,5 @@ This means two things for you. I can build a working prototype faster than befor
 ---
 
 <p align="center">
-  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/lassie_dev">@lassie_dev</a> or WhatsApp <a href="https://wa.me/12246832338">+1 224 683 2338</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
+  <sub>Available for freelance work &mdash; Telegram <a href="https://t.me/lassie_dev">@lassie_dev</a>, WhatsApp <a href="https://wa.me/15056590178">+1 505 659 0178</a>, or email <a href="mailto:lassie.solution@gmail.com">lassie.solution@gmail.com</a>.<br>If something is broken in production and nobody knows why, that is the message I answer fastest.</sub>
 </p>
